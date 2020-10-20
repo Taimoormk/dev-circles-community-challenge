@@ -6,6 +6,29 @@ Create innovative and immersive tutorials that help fellow developers build with
 ## The Category
 This tutorial is classified under `intermediate` and `expert` level of developer audiences. Also, the chosen language for this tutorial shall be English.
 
+## Table of Content
+- [The Architecture](#the-architecture)
+- [Technologies Covered](#technologies-covered)
+- [React Pakistan Repositories](#react-pakistan-repositories)
+- [React Commons Collection](#react-commons-collection)
+- [Baked Responsiveness](#baked-responsiveness)
+- [Baked Theme](#baked-theme)
+- [React UI Collection](#react-ui-collection)
+- [React Icon Collection](#react-icon-collection)
+- [React Logo Collection](#react-logo-collection)
+- [React Emoji Collection](#react-emoji-collection)
+- [React Native Commons Collection](#react-native-commons-collection)
+- [Baked Theme](#baked-theme)
+- [React Native UI Collection](#react-native-ui-collection)
+- [React Native Icon Collection](#react-native-icon-collection)
+- [React Native Logo Collection](#react-native-logo-collection)
+- [React Native Emoji Collection](#react-native-emoji-collection)
+- [React Native Boilerplate](#react-native-boilerplate)
+- [React Pakistan Docs](#react-pakistan-docs)
+- [Util Functions](#util-functions)
+- [Util React Native Functions](#util-react-native-functions)
+- [Eslint Config Shared](#eslint-config-shared)
+
 ## The Architecture
 
 ## Technologies Covered
@@ -187,5 +210,5 @@ A collection of util functions for `React` web libraries, helping to reduce the 
 ### Util React Native Functions
 Same reasoning goes behind building this library as of `Util Functions`, except that it focuses on `React Native` platform rather.
 
-### Eslint Shared Config
+### Eslint Config Shared
 Since all of `React Pakistan` packages heavily relies on `TypeScript` and at some places `JavaScript`, so it'd be meaningful if we have a central space where all of our `Eslint` rules are defined, this package just does that.
