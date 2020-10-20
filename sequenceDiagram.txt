@@ -1,0 +1,29 @@
+@startuml
+scale 2
+title React Pakistan Architecture
+left to right direction
+
+rectangle Generic {
+  (React Commons Collection)
+  (React Native Commons Collection)
+  (Util Functions) --> (React Commons Collection) : dependency
+  (Util React Native Functions) --> (React Native Commons Collection) : dependency
+  (Eslint Config Shared) --> (React Commons Collection) : dependency
+  (Eslint Config Shared) --> (React Native Commons Collection) : dependency
+}
+
+rectangle ReactJS {
+  (React UI Collection) --> (React Commons Collection) : extended
+  (React Icon Collection) --> (React Commons Collection) : extended
+  (React Logo Collection) --> (React Commons Collection) : extended
+  (React Emoji Collection) --> (React Commons Collection) : extended
+}
+
+rectangle ReactNative {
+  (React Native UI Collection) --> (React Native Commons Collection) : extended
+  (React Native Icon Collection) --> (React Native Commons Collection) : extended
+  (React Native Logo Collection) --> (React Native Commons Collection) : extended
+  (React Native Emoji Collection) --> (React Native Commons Collection) : extended
+}
+
+@enduml

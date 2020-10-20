@@ -31,6 +31,8 @@ This tutorial is classified under `intermediate` and `expert` level of developer
 
 ## The Architecture
 
+<img src="./react-pakistan-architecture.svg" width="100%" />
+
 ## Technologies Covered
 - React
 - React Native
