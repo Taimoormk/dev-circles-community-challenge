@@ -70,8 +70,8 @@ Following are list of all `React Pakistan` repositories and their current status
 | React Native Logo Collection | [github](https://github.com/react-pakistan/react-native-logo-collection)     | [npm](https://www.npmjs.com/package/@react-pakistan/react-native-logo-collection)    | ✅     |
 | React Native Emoji Collection | [github](https://github.com/react-pakistan/react-native-emoji-collection)     | [npm](https://www.npmjs.com/package/@react-pakistan/react-native-emoji-collection)    | ✅     |
 | React Native Boilerplate | [github](https://github.com/react-pakistan/react-native-boiletplate)     | ❌    | ✅ Refactor ETA: Q1 2021     |
-| Util Functions | [github](https://github.com/react-pakistan/util-functions)     | [npm](https://www.npmjs.com/package/@react-pakistan/util-functions)    | ✅     |
-| Util React Native Functions | [github](https://github.com/react-pakistan/util-react-native-functions)     | [npm](https://www.npmjs.com/package/@react-pakistan/util-react-native-functions)    | ✅     |
+| Util Functions | [github](https://github.com/react-pakistan/util-functions)     | [npm](https://www.npmjs.com/package/@react-pakistan/util-functions)    | ❌ ETA: Q1 2021     |
+| Util React Native Functions | [github](https://github.com/react-pakistan/util-react-native-functions)     | [npm](https://www.npmjs.com/package/@react-pakistan/util-react-native-functions)    | ❌ ETA: Q1 2021     |
 | Eslint Shared Config | [github](https://github.com/react-pakistan/eslint-config-shared)     | [npm](https://www.npmjs.com/package/@react-pakistan/eslint-config-shared)    | ✅     |
 
 ### React Commons Collection
