@@ -11,7 +11,6 @@ The eco-system is classified under `generic` to `specific` ways of building comp
 | `React UI Collection`             | Specific - 1             |
 | `React Icon Collection`           | Specific - 1             |
 | `React Logo Collection`           | Specific - 1             |
-| `React Logo Collection`           | Specific - 1             |
 | `React Emoji Collection`          | Specific - 1             |
 | `React Native Commons Collection` | Generic - 0              |
 | `React Native UI Collection`      | Specific - 1             |
