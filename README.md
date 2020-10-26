@@ -3,7 +3,7 @@
 ## ReactPakistan EcoSystem 🎖
 `ReactPakistan` EcoSystem encompass around `React`, `React Native` & `Docusaurus` technologies and tools. The philosophy beneath `ReactPakistan` packages is to create Micro-Frontends, decoupled from the logic for maximum use cases re-useability in mind. We don't want to limit developers by writing coupled components/functions. This one platform brings various solutions to building effective UI/UX in `React` & `ReactNative`, like removing the pain of adding responsive and theming features to it.
 
-The eco-system is classified under `generic` to `specific` way of building components library, this helps developers to re-use the `generic` components as much as possible and build `specific` stages of components on top of the `generic` ones, hence keeping the concerned component logic to it's relevant stage as required. Following is the higher level table to put things into perspective.
+The eco-system is classified under `generic` to `specific` ways of building components library, this helps developers to re-use the `generic` components as much as possible and build `specific` stages of components on top of the `generic` ones, hence keeping the concerned component logic to it's relevant stage as required. Following is the higher level table to put things into perspective.
 
 | Project                           | Generic/Specific Level   |
 | --------------------------------- | :----------------------: |
