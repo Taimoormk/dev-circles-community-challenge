@@ -1,7 +1,26 @@
 # 🔥🔥🔥 ReactPakistan EcoSystem - Build Web/Mobile UI with React Micro-Frontend 🔥🔥🔥
 
-## The Challenge 🎖
-Create innovative and immersive tutorials that help fellow developers build with Facebook technologies, for more info please check this [link](https://developercircles2020.devpost.com/?utm_source=social-facebook&utm_medium=devc&utm_campaign=organic&utm_content=post-url&utm_offering=business-tools&utm_product=DevC-CommunityChallenge-Launch_09102020&utm_event=2020DevCCommunityChallengeLaunch&eventSource=OrganicSocialDevC).
+## ReactPakistan EcoSystem 🎖
+`ReactPakistan` EcoSystem encompass around `React`, `React Native` & `Docusaurus` technologies and tools. The philosophy beneath `ReactPakistan` packages is to create Micro-Frontends, decoupled from the logic for maximum use cases re-useability in mind. We don't want to limit developers by writing coupled components/functions. This one platform brings various solutions to building effective UI/UX in `React` & `ReactNative`, like removing the pain of adding responsive and theming features to it.
+
+The eco-system is classified under `generic` to `specific` way of building components library, this helps developers to re-use the `generic` components as much as possible and build `specific` stages of components on top of the `generic` ones, hence keeping the concerned component logic to it's relevant stage as required. Following is the higher level table to put things into perspective.
+
+| Project                           | Generic/Specific Level   |
+| --------------------------------- | :----------------------: |
+| `React Commons Collection`        | Generic - 0              |
+| `React UI Collection`             | Specific - 1             |
+| `React Icon Collection`           | Specific - 1             |
+| `React Logo Collection`           | Specific - 1             |
+| `React Logo Collection`           | Specific - 1             |
+| `React Emoji Collection`          | Specific - 1             |
+| `React Native Commons Collection` | Generic - 0              |
+| `React Native UI Collection`      | Specific - 1             |
+| `React Native Icon Collection`    | Specific - 1             |
+| `React Native Logo Collection`    | Specific - 1             |
+| `React Native Emoji Collection`   | Specific - 1             |
+| `Util Functions`                  | Generic - 0              |
+| `Util React Native Functions`     | Generic - 0              |
+| `Eslint Config Shared`            | Generic - 0              |
 
 ## Table of Content
 - [The Architecture](#the-architecture)
@@ -563,3 +582,6 @@ Since all of `React Pakistan` packages heavily relies on `TypeScript` and at som
 - Multi Theme support is also baked right into the core, developers can either use the base theme or customize it as per their design specs.
 - Robust codebase using `TypeScript`.
 - Tested codebase.
+
+#### Star, Fork & Share
+Should you like these series of open source ReactPakistan projects, please consider giving it a star, perhaps fork it and share it across your circles, every contribution counts, like these too.
