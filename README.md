@@ -541,11 +541,11 @@ Same reasoning goes behind building this library as of `Util Functions`, except 
 Since all of `React Pakistan` packages heavily relies on `TypeScript` and at some places `JavaScript`, so it'd be meaningful if we have a central space where all of our `Eslint` rules are defined, this package just does that.
 
 ### Why ReactPakistan
-- It makes creating custom UI development painless for both `React` & `React Native` platforms.
+- It makes creating robust custom UI development painless for both `React` & `React Native` platforms.
 - It allows developers to fully customize any generic component built under `React Commons Collection` library.
 - It makes using SVG with `React` & `React Native` seamless.
 - It is lightweight compared to other popular UI libraries.
-- It supports the tree shaking feature to keep the bundle size minimum as possible, following are two examples:
+- It supports the tree shaking feature to keep the bundle size minimum as possible, following are some examples:
 ```javascript
   // below line will import Button from the package, but also it will bring in all items being exported from the root.
 
