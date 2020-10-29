@@ -66,7 +66,7 @@ The eco-system is classified under `generic` to `specific` ways of building comp
   </a>
 </div>
 
-Following are list of all `React Pakistan` repositories and their current status as of today.
+Following is list of all `React Pakistan` repositories and their current status as of today.
 
 | Project             | GitHub           | NPM   | Open Source'd  |
 | ------------------- |:----------------:|:-----:|:--------------:|
@@ -560,7 +560,7 @@ Since all of `React Pakistan` packages heavily relies on `TypeScript` and at som
 
 ### Why ReactPakistan
 - It makes creating robust custom UI development painless for both `React` & `React Native` platforms.
-- It allows developers to fully customize any generic component built under `React Commons Collection` library.
+- It allows developers to fully customize any generic component built under `React Commons Collection` or `React Native Commons Collection` library.
 - It makes using SVG with `React` & `React Native` seamless.
 - It is lightweight compared to other popular UI libraries.
 - It supports the tree shaking feature to keep the bundle size minimum as possible, following are some examples:
