@@ -44,7 +44,7 @@ The eco-system is classified under `generic` to `specific` ways of building comp
 
 ## The Architecture
 
-<img src="./react-pakistan-architecture.svg" width="100%" />
+<img src='./react-pakistan-architecture.svg' width='100%' />
 
 ## Technologies Covered
 - React
@@ -55,18 +55,18 @@ The eco-system is classified under `generic` to `specific` ways of building comp
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-pakistan-docs/"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-pakistan-docs/'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Commons Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1565548545/GitHub/React_Pakistan_Storybook_Logo.jpg"
-      width="100%"
+      alt='React Pakistan - React Commons Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1565548545/GitHub/React_Pakistan_Storybook_Logo.jpg'
+      width='100%'
     />
   </a>
 </div>
 
-Following is list of all `React Pakistan` repositories and their current status as of today.
+Following are list of all `React Pakistan` repositories and their current status as of today.
 
 | Project             | GitHub           | NPM   | Open Source'd  |
 | ------------------- |:----------------:|:-----:|:--------------:|
@@ -90,23 +90,23 @@ Following is list of all `React Pakistan` repositories and their current status 
 
 <div>
   <a
-    href="https://taimoormk.github.io/react-commons-collection"
-    target="_blank"
+    href='https://taimoormk.github.io/react-commons-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Commons Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-commons-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Commons Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-commons-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-commons-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-commons-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Commons Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Commons Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -129,14 +129,14 @@ Although, there are a ton of popular `React` UI libraries available, but the int
     fontWeight={700}
     laptop=''
     laptopL=''
-    letterSpacing="1px"
-    lineHeight="normal"
+    letterSpacing='1px'
+    lineHeight='normal'
     mobileL=''
     mobileM=''
     mobileS=''
     tablet=''
-    textAlign="center"
-    textTransform="uppercase"
+    textAlign='center'
+    textTransform='uppercase'
   >
     H1 Component
   </H1>
@@ -157,14 +157,14 @@ Imagine if we need to change color of H1 on `desktop` size screen, I'd leverage 
     fontWeight={700}
     laptop=''
     laptopL=''
-    letterSpacing="1px"
-    lineHeight="normal"
+    letterSpacing='1px'
+    lineHeight='normal'
     mobileL=''
     mobileM=''
     mobileS=''
     tablet=''
-    textAlign="center"
-    textTransform="uppercase"
+    textAlign='center'
+    textTransform='uppercase'
   >
     H1 Component
   </H1>
@@ -257,23 +257,23 @@ Else, developers could update nodes of the theme object as per their design spec
 
 <div>
   <a
-    href="https://taimoormk.github.io/react-ui-collection"
-    target="_blank"
+    href='https://taimoormk.github.io/react-ui-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React UI Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-ui-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React UI Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-ui-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-ui-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-ui-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React UI Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React UI Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -288,23 +288,23 @@ This approach helped a lot to write good standard, robust and maintainable code,
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-icon-collection"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-icon-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Icon Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499955/GitHub/react-icons-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Icon Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499955/GitHub/react-icons-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-icon-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-icon-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Icon Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Icon Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -315,8 +315,8 @@ This approach helped a lot to write good standard, robust and maintainable code,
   import { FourthofjulyGrey12 } from '@react-pakistan/react-icons-collection/fourthofjuly-grey';
 
   <FourthofjulyGrey12
-    fontSize="32px"
-    fill="#2E2E2E"
+    fontSize='32px'
+    fill='#2E2E2E'
   />
 ```
 
@@ -324,23 +324,23 @@ This approach helped a lot to write good standard, robust and maintainable code,
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-logo-collection"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-logo-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Logo Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Logo Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-logo-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-logo-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Logo Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Logo Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -351,8 +351,8 @@ Same as `React Icon Collection`, but only difference it has is that it contains 
   import { BitcoinColor22 } from '@react-pakistan/react-logo-collection/logos/bitcoin-color';
 
   <BitcoinColor22
-    fontSize="32px"
-    color="#2E2E2E"
+    fontSize='32px'
+    color='#2E2E2E'
   />
 ```
 
@@ -360,23 +360,23 @@ Same as `React Icon Collection`, but only difference it has is that it contains 
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-emoji-collection"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-emoji-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Emoji Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Emoji Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-emoji-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-emoji-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Emoji Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Emoji Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -387,7 +387,7 @@ Same as `React Icon Collection`, but only difference it has is that it contains 
   import { BodyParts1 } from '@react-pakistan/react-logo-collection/emoji/body-parts';
 
   <BodyParts1
-    fontSize="32px"
+    fontSize='32px'
   />
 ```
 
@@ -395,23 +395,23 @@ Same as `React Icon Collection`, but only difference it has is that it contains 
 
 <div>
   <a
-    href="https://taimoormk.github.io/react-native-commons-collection"
-    target="_blank"
+    href='https://taimoormk.github.io/react-native-commons-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Commons Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650645/GitHub/react-native-commons-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Native Commons Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650645/GitHub/react-native-commons-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-native-commons-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-native-commons-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Icon Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Native Icon Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -425,23 +425,23 @@ Theme support has been baked right into it's core to enable several features acr
 
 <div>
   <a
-    href="https://taimoormk.github.io/react-native-ui-collection"
-    target="_blank"
+    href='https://taimoormk.github.io/react-native-ui-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native UI Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650649/GitHub/react-native-ui-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Native UI Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650649/GitHub/react-native-ui-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-native-ui-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-native-ui-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native UI Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Native UI Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -452,23 +452,23 @@ Same reasoning goes behind building this library as of `React UI Collection`, ex
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-native-icon-collection"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-native-icon-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Icon Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650647/GitHub/react-native-icon-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Native Icon Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650647/GitHub/react-native-icon-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-native-icon-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-native-icon-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Icon Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Native Icon Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -479,23 +479,23 @@ Same reasoning goes behind building this library as of `React Icon Collection`, 
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-native-logo-collection"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-native-logo-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Logo Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650658/GitHub/react-native-logo-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Native Logo Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650658/GitHub/react-native-logo-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-native-logo-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-native-logo-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Logo Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Native Logo Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -506,23 +506,23 @@ Same reasoning goes behind building this library as of `React Logo Collection`, 
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-native-emoji-collection"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-native-emoji-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Emoji Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg"
-      width="70%"
+      alt='React Pakistan - React Native Emoji Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg'
+      width='70%'
     />
   </a>
   <a
-    href="https://www.npmjs.com/package/@react-pakistan/react-native-emoji-collection"
-    target="_blank"
+    href='https://www.npmjs.com/package/@react-pakistan/react-native-emoji-collection'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Emoji Collection - NPM Package"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-      width="20%"
+      alt='React Pakistan - React Native Emoji Collection - NPM Package'
+      src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-'
+      width='20%'
     />
   </a>
 </div>
@@ -533,13 +533,13 @@ Same reasoning goes behind building this library as of `React Emoji Collection`,
 
 <div>
   <a
-    href="https://react-pakistan.github.io/react-boilerplate"
-    target="_blank"
+    href='https://react-pakistan.github.io/react-boilerplate'
+    target='_blank'
   >
     <img
-      alt="React Pakistan - React Native Emoji Collection"
-      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1548862588/react-native-boilerplate.jpg"
-      width="100%"
+      alt='React Pakistan - React Native Emoji Collection'
+      src='https://res.cloudinary.com/dq6hflqwx/image/upload/v1548862588/react-native-boilerplate.jpg'
+      width='100%'
     />
   </a>
 </div>
